@@ -152,13 +152,13 @@ A responsive weather application that provides real-time weather information for
 
 ---
 
-<!-- # 📅 Contribution Calendar
+< # 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/bhavy-art" alt="GitHub Contribution Chart"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavy-art&theme=react-dark&hide_border=true" />
 </p>
 
------>
+----
 
 # 🏆 GitHub Trophies
 
