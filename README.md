@@ -152,12 +152,10 @@ A responsive weather application that provides real-time weather information for
 
 ---
 
-# 📈 Contribution Graph
+# 📅 Contribution Calendar
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavy-art&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://ghchart.rshah.org/bhavy-art" alt="Bhavy's Github Contribution Chart" />
 </p>
 
 ---
