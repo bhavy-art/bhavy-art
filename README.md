@@ -81,19 +81,36 @@ A full-stack property booking platform inspired by Airbnb.
 
 ---
 
-## 💬 Real-Time Chat Application
+## 💱 Currency Converter
 
-A responsive chat application with modern UI.
+A responsive web application that converts currencies using real-time exchange rates from an API.
 
-**Tech Stack:** Node.js • Express.js • Socket.io • HTML • CSS • JavaScript
+### ✨ Features
+
+- 💰 Convert between multiple international currencies
+- 🌍 Supports a wide range of currencies
+- 🔄 Real-time exchange rates using API integration
+- 📱 Responsive and user-friendly interface
+- ⚡ Fast and accurate currency conversion
+
+**Tech Stack:** HTML • CSS • JavaScript • Exchange Rate API
 
 ---
 
 ## 🌦 Weather App
 
-Weather forecasting application using OpenWeather API.
+A responsive weather application that provides real-time weather information for cities around the world using a weather API.
 
-**Tech Stack:** HTML • CSS • JavaScript
+### ✨ Features
+
+- 🌍 Search weather by city name
+- 🌡️ Displays current temperature
+- 💧 Shows humidity and wind speed
+- ☁️ Weather condition with icons
+- 📱 Responsive and user-friendly interface
+- ⚡ Real-time weather updates using API integration
+
+**Tech Stack:** HTML • CSS • JavaScript • OpenWeather API
 
 ---
 
@@ -105,9 +122,9 @@ Weather forecasting application using OpenWeather API.
 
 <!-- Add these later if available -->
 
-🔗 **GeeksforGeeks:** Coming Soon
+<!-- 🔗 **GeeksforGeeks:** Coming Soon -->
 
-🔗 **CodeChef:** Coming Soon
+<!-- 🔗 **CodeChef:** Coming Soon -->
 
 </p>
 
